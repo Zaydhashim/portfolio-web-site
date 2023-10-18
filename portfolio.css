@@ -1,0 +1,51 @@
+.container-1{
+    background-color: rgb(255, 255, 255);
+    height: 65vh;
+    width: 30vw;
+}
+img{
+    height: 450px;
+    width: 50vh;
+}
+.sect-1{
+    background-color: rgb(189, 186, 186);
+    height: 1200px;
+    width: 50vh;
+    position: fixed;
+}
+.sect-2{
+    background-color: rgb(189, 186, 186);
+}
+.home{
+    margin-left: 50vh;
+    text-align: center;
+    height: 65vh;
+}
+.about{
+    background-color: rgb(243, 241, 241);
+    margin-left: 50vh;
+    height: 65vh;
+}
+.contact{
+    background-color: rgb(189, 186, 186);
+    margin-left: 50vh;
+    height: 762px;
+}
+a,p,h4{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+br{
+    background-color: gray;
+}
+.col-1{
+    background-color: grey;
+    padding: 8px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+h2{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
